@@ -6,8 +6,8 @@ Mọi người có thể xem bài viết hướng dẫn đầy đủ tại [đâ
 ## Cài đặt:
 
 ```
-git clone 
-cd 
+git clone https://github.com/vovanphuc/elastic_simCSE.git
+cd elastic_simCSE
 pip install -r requirements.txt
 ```
 
@@ -33,3 +33,10 @@ Kết quả khi sử dụng elasticsearch bình thường.
 
 Kết quả khi sử dụng SimCSE_VietNamese.
 
+## Contact:
+
+Email: vovanphuc100598@gmail.com
+
+Facebook: [facebook.com/vovanphucc](facebook.com/vovanphucc)
+
+Linkedin: [linkedin.com/in/vovanphuc](linkedin.com/in/vovanphuc)
