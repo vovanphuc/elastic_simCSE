@@ -1,0 +1,21 @@
+{
+
+  "mappings": {
+    "dynamic": "true",
+    "_source": {
+      "enabled": "true"
+    },
+    "properties": {
+      "id": {
+        "type": "text"
+      },
+      "title": {
+        "type": "text"
+      },
+      "title_vector": {
+        "type": "dense_vector",
+        "dims": 768
+      }
+    }
+  }
+}

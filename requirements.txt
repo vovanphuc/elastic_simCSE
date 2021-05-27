@@ -1,0 +1,5 @@
+sentence-transformers==1.2.0
+streamlit==0.80.0
+pandas==1.2.4
+elasticsearch==7.12.1
+pyvi==0.1
